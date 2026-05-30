@@ -35,3 +35,37 @@ data_capture/
 calibration/
 docs/
 examples/
+```
+
+## Current Contents
+
+### MATLAB Beam-Bending Solver
+
+The MATLAB workflow implements a reverse solver for estimating cantilever beam dimensions in the AcceloPrint accelerometer structure. It uses material properties, geometric parameters, static loading assumptions, and Euler-Bernoulli beam-bending equations to estimate the cantilever beam length required for a target deflection under a given acceleration input.
+
+### 3D Model Files
+
+The repository includes Blender and STL model files related to the AcceloPrint prototype geometry. These files document the physical design assets used for modeling, fabrication, and iteration.
+
+### Cura Profile
+
+The Cura profile documents multi-material slicing and fabrication settings used for AcceloPrint-related prototyping.
+
+### Arduino Sketches
+
+The Arduino sketches are included as embedded-system code assets for future organization of AcceloPrint data capture, sensor readout, or prototype control workflows.
+
+## Planned Additions
+
+Future additions may include:
+
+- Cleaned and documented Arduino/ESP32 sensor readout code
+- Serial data capture scripts
+- Calibration and validation workflows
+- Example non-private datasets
+- Wiring diagrams and setup instructions
+- Fabrication and assembly documentation
+
+## Notes
+
+This repository is intended as a project archive and technical portfolio for AcceloPrint. Some parameters may need to be adjusted depending on material properties, printing parameters, infill, geometry, electronics, and experimental validation.
