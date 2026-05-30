@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# MATLAB temporary/autosave files
+*.asv
+*.m~
+*.autosave
+*.slxc
+
+# Python/cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local-only/private data
+raw_data/
+participant_data/
+local_notes/
+
+# Generated outputs
+outputs/
+results/
+
+# Blender backup files
+*.blend1
+*.blend2
+*.blend@
+
+# Arduino build outputs
+build/
+*.hex
+*.elf
+*.bin
