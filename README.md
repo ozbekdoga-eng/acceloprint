@@ -4,6 +4,8 @@ AcceloPrint is a customizable accelerometer prototyping project combining multi-
 
 The project explores how 3D-printed structures can be designed as functional sensing systems, where geometry, material selection, beam length, and fabrication parameters influence the sensing range and response of a printed accelerometer.
 
+The project is published in CHI 2025, LBW session: https://dl.acm.org/doi/10.1145/3706599.3720059
+
 ## Repository Structure
 
 ```text
