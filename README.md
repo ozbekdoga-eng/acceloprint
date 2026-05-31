@@ -32,11 +32,6 @@ arduino/
 │   └── sketch_may31c.ino
 └── sketch_may31d/
     └── sketch_may31d.ino
-
-data_capture/
-calibration/
-docs/
-examples/
 ```
 
 ## Current Contents
